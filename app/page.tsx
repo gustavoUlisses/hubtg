@@ -206,7 +206,7 @@ export default function Home() {
         <section className="py-16 px-4 sm:px-6 lg:px-8 max-w-4xl mx-auto text-center">
           <h2 className="text-4xl md:text-5xl font-bold tracking-tight mb-4 leading-tight">
             Hub de Ferramentas{" "}
-            <span className="text-primary">Trader Generation</span>
+            <span className="text-primary">TG</span>
           </h2>
           <p className="text-lg text-muted max-w-2xl mx-auto">
             Todas as ferramentas que voce precisa para operar o metodo TG

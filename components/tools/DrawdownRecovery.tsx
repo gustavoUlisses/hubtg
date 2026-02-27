@@ -38,7 +38,7 @@ export default function DrawdownRecovery() {
   return (
     <div className="space-y-4">
       <div>
-        <div className="flex justify-between text-xs text-muted mb-1 uppercase tracking-wider">
+        <div className="flex justify-between text-[10px] text-muted mb-1 uppercase tracking-wider truncate">
           <label>Perda Sofrida (%)</label>
           <span>{perda}%</span>
         </div>

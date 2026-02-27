@@ -192,9 +192,9 @@ export default function Home() {
               <LineChart className="w-5 h-5 text-primary" />
             </div>
             <div>
-              <h1 className="font-bold text-lg tracking-tight">TRADER GENERATION HUB</h1>
+              <h1 className="font-bold text-lg tracking-tight">TG HUB 1.0</h1>
               <p className="text-[10px] text-muted uppercase tracking-wider font-medium">
-                Ferramentas para traders profissionais
+                Ferramentas para traders by TG
               </p>
             </div>
           </div>
@@ -205,11 +205,11 @@ export default function Home() {
         {/* Hero Section */}
         <section className="py-16 px-4 sm:px-6 lg:px-8 max-w-4xl mx-auto text-center">
           <h2 className="text-4xl md:text-5xl font-bold tracking-tight mb-4 leading-tight">
-            Todas as ferramentas que você precisa para operar com{" "}
-            <span className="text-primary">profissionalismo</span>
+            Hub de Ferramentas Forex{" "}
+            <span className="text-primary">Trader Generation</span>
           </h2>
           <p className="text-lg text-muted max-w-2xl mx-auto">
-            15 ferramentas gratuitas para gestão de risco, análise de banca e
+            Todas as ferramentas que voce precisa para operar o metodo TG
             muito mais.
           </p>
         </section>
@@ -275,7 +275,7 @@ export default function Home() {
       <footer className="border-t border-surface bg-background py-8">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <p className="text-sm text-muted mb-2">
-            TRADER GENERATION HUB © 2025 — Ferramentas para traders profissionais
+            TRADER GENERATION HUB © 2026
           </p>
           <p className="text-xs text-muted/60">
             As ferramentas são para fins educacionais. Não constituem

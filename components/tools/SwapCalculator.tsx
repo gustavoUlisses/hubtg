@@ -29,7 +29,7 @@ export default function SwapCalculator() {
     <div className="space-y-4">
       <div className="grid grid-cols-2 gap-4">
         <div>
-          <label className="block text-xs text-muted mb-1 uppercase tracking-wider">
+          <label className="block text-[10px] text-muted mb-1 uppercase tracking-wider truncate">
             Par de Moedas
           </label>
           <select value={pair} onChange={(e) => setPair(e.target.value)}>

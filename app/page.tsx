@@ -192,7 +192,7 @@ export default function Home() {
               <LineChart className="w-5 h-5 text-primary" />
             </div>
             <div>
-              <h1 className="font-bold text-lg tracking-tight">TraderTools</h1>
+              <h1 className="font-bold text-lg tracking-tight">TRADER GENERATION HUB</h1>
               <p className="text-[10px] text-muted uppercase tracking-wider font-medium">
                 Ferramentas para traders profissionais
               </p>
@@ -275,7 +275,7 @@ export default function Home() {
       <footer className="border-t border-surface bg-background py-8">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <p className="text-sm text-muted mb-2">
-            TraderTools © 2025 — Ferramentas para traders profissionais
+            TRADER GENERATION HUB © 2025 — Ferramentas para traders profissionais
           </p>
           <p className="text-xs text-muted/60">
             As ferramentas são para fins educacionais. Não constituem

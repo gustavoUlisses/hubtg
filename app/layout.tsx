@@ -13,7 +13,7 @@ const jetbrainsMono = JetBrains_Mono({
 });
 
 export const metadata: Metadata = {
-  title: 'TraderTools | Ferramentas para traders profissionais',
+  title: 'TRADER GENERATION HUB | Ferramentas para traders profissionais',
   description: '15 ferramentas gratuitas para gestão de risco, análise de banca e muito mais',
 };
 

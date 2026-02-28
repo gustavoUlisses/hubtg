@@ -192,9 +192,9 @@ export default function Home() {
               <LineChart className="w-5 h-5 text-primary" />
             </div>
             <div>
-              <h1 className="font-bold text-lg tracking-tight">TG HUB 1.0</h1>
+              <h1 className="font-bold text-lg tracking-tight">HUB TRADER GENERATION</h1>
               <p className="text-[10px] text-muted uppercase tracking-wider font-medium">
-                Ferramentas para traders by TG
+                Ferramentas para forex
               </p>
             </div>
           </div>
@@ -205,12 +205,11 @@ export default function Home() {
         {/* Hero Section */}
         <section className="py-16 px-4 sm:px-6 lg:px-8 max-w-4xl mx-auto text-center">
           <h2 className="text-4xl md:text-5xl font-bold tracking-tight mb-4 leading-tight">
-            Hub de Ferramentas{" "}
-            <span className="text-primary">TG</span>
+            Ferramentas{" "}
+            <span className="text-primary">Trader Generation</span>
           </h2>
           <p className="text-lg text-muted max-w-2xl mx-auto">
-            Todas as ferramentas que voce precisa para operar o metodo TG
-            muito mais.
+            Todas as ferramentas que você precisa para operar o método TG.
           </p>
         </section>
 
